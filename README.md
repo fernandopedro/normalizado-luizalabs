@@ -2,6 +2,8 @@
 
 Este projeto foi desenvolvido em **Node.js com NestJS**, com o objetivo de processar um **arquivo de pedidos legado** e retornar os dados **normalizados em formato JSON**, via API REST.
 
+OBS.: alguns nomes de variáveis e/ou métodos estarão em português, fora do padrão, para diferenciar de códigos feitos por IA.
+
 ---
 
 ## 🚀 Tecnologias Utilizadas

@@ -10,7 +10,6 @@ import { FileInterceptor } from '@nestjs/platform-express';
 import { OrdersService } from './orders.service';
 import { OrdersFilterDto } from './dto/filters.dto';
 import { ValidationPipe } from '@nestjs/common';
-import { ValidateIf } from 'class-validator';
 
 @Controller('orders')
 export class OrdersController {
